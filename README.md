@@ -1,13 +1,33 @@
-<<<<<<< HEAD
-Para elaboração desse projeto foi necessário conhecimento em JS e em React, trabalhando com Hooks como useState, useEffect, useRef, useContext, useCallback e useParams.
+<h1>SEARCH DRINK PAGE 🍸</h1>
 
-Foi necessário auxilio de materiais complementares e vídeos do youtube para estruturação do projeto.
+![image](https://github.com/caiolagreca/Drink_page/blob/main/src/gifs/drink.gif)
 
-Utilizei um fetchAPI no qual busca uma lista de bebidas de acordo com o input passado pelo usuário no forms.
+<h2>Main Features ⚡</h2>
+<ul>
+  <li>Pesquisa de Drinks através do nome inserido no Input</li>
+  <li>Consumo de API para encontrar os resultados</li>
+  <li>É possível ver detalhes do Drink ao selecioná-lo</li>
+</ul>
 
+<h2>Tecnologias utilizadas 💻</h2>
+<ul>
+  <li>ReactJS - Hooks, Router</li>
+  <li>Javascript</li>
+  <li>CSS</li>
+  <li>HTML</li>
+</ul>
 
-=======
-![image](https://user-images.githubusercontent.com/98494814/178815271-e1634cd0-2107-4538-b449-11242251b51e.png)
+<h2>Serviços utilizados 🛠</h2>
+<ul>
+  <li>API de Drinks</li>
+  <li>Vercel para Deploy</li>
+</ul>
 
-Projeto elaborado utilizando Hooks do ReactJS como useState, useEffect, useContext, useRef, além da utilização do React Router para manipular a navegação dos links.
->>>>>>> e6d830b70dae0bc18e825a2789f6c21262b9a7e4
+<h2>Design Responsivo 📱</h2>
+
+![image](https://github.com/caiolagreca/Drink_page/blob/main/src/gifs/drink_mobile.gif)
+
+<h2>Autor do Projeto 😀</2>
+<ul>
+  <li>Caio Lagreca</li>
+</ul>
